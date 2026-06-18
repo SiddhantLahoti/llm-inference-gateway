@@ -186,5 +186,3 @@ Expected response pattern during standard operation:
 
 ```
 
-```
----
